@@ -1,0 +1,31 @@
+/* 
+Streamlit CSS Stylesheet Overrides
+Custom styling for Pragna Fake News Detection Using NLP
+*/
+
+/* Main Container Padding */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    max-width: 95rem;
+}
+
+/* Metric Display Borders */
+[data-testid="stMetricValue"] {
+    font-size: 2.2rem !important;
+    font-weight: 700 !important;
+}
+
+/* Styled Alert Containers */
+.stAlert {
+    border-radius: 8px !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+}
+
+/* Headers styling */
+h3 {
+    margin-top: 1rem !important;
+    padding-bottom: 0.5rem !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
