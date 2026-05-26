@@ -127,17 +127,5 @@ Run the Streamlit server to open the interactive dashboard in your browser:
 streamlit run app.py
 ```
 
----
 
-## 📝 Student Internship Certification & Resume Details
-* **Developed By**: Pragna
-* **Project Status**: Completed & Verified
-* **Focus Area**: Natural Language Processing (NLP), Text Preprocessing, TF-IDF Feature Engineering, Classifier Optimization, Web Application Deployment.
-* **Resume Bullet Points**:
-  - Engineered an end-to-end Natural Language Processing system in Python predicting news legitimacy under the certification **"Developed by Pragna"**, utilizing Regex filters, NLTK tokenization, and WordNet lemmatization.
-  - Formulated **TF-IDF Vectorization** matrices mapping 3,000 unique unigram/bigram n-gram features, achieving **100% test accuracy** across Logistic Regression, Naive Bayes, and SVM models.
-  - Developed and deployed an interactive, multi-tab **Streamlit web application** executing real-time string cleaning, TF-IDF alignments, progressive confidence scores, and custom WordCloud renderings.
-  - Implemented a **Linguistic Suspicion Diagnostic** module inside the dashboard using heuristic scanning to flag clickbait/conspiracy buzzwords for users.
-
----
 *Developed by Pragna | Student NLP & Data Science Internship Project Showcase*
